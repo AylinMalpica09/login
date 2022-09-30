@@ -1,0 +1,50 @@
+body{
+    background-color: #f6d9c9;
+    height: 100px;
+  }
+h4 {
+    color: #000;
+    margin-top: 6px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 22px;
+}  
+.txtBox{
+    margin-top:6px;
+    background-color: ivory;
+    color: #000;
+    height: 18px;
+    border-color: transparent;
+    border-radius: 4px;
+}
+.txtBox:hover{
+    border-radius: 4px;
+    border-color: violet;
+}
+
+label{
+    margin-right: 10px;
+    color: #000;
+    margin-top: 10px;
+}
+.infPer{
+    background-color: #f8f4c0;
+    background-color: #c1d1ec;
+    border: solid black 2px;
+    border-radius: 20px;
+    width: 380px;
+    height: 450px;
+    transform: translate(120%,4%);
+    text-align: center;
+}
+.dateBox{
+    background-color: ivory;
+    color: lightslategray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-color: transparent;
+    border-radius: 4px;
+    height: 18px;
+}
+.dateBox:hover{
+    border-radius: 4px;
+    border-color: violet;
+}
